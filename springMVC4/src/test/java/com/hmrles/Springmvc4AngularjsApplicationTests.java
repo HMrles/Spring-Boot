@@ -1,4 +1,4 @@
-package com.bbva;
+package com.hmrles;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
