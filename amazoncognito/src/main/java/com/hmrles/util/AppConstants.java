@@ -27,12 +27,12 @@ public class AppConstants {
 	public static final String EMAIL = "email";
 	
 	// 	Cognito IAM ID para acceso completo a Cognito
-	public static final String COGNITO_ID = "AKIAJREBGJORT7DALM5Q";
+	public static final String COGNITO_ID = "Tus datos";
 	// Cognito IAM "secret key" para un acceso completo a Cognito
-	public static final String COGNITO_KEY = "sHna92cZArGXbMkJobQfbYRDWkS4F3knQeICW0il";
+	public static final String COGNITO_KEY = "Tus datos";
 	
-	public static final String POOL_ID = "us-east-1_LOBfd9JvL";
-	public static final String CLIENT_ID = "7jeu4p9jg7d5ap9duginmahej4";
+	public static final String POOL_ID = "Tus datos";
+	public static final String CLIENT_ID = "Tus datos";
 
 
 
